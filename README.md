@@ -1,0 +1,4 @@
+wpfuzz
+======
+
+WordPress generic fuzzer
