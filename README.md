@@ -1,4 +1,4 @@
 wpfuzz
 ======
 
-WordPress generic fuzzer
+WordPress plugin generic fuzzer.
