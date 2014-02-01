@@ -27,5 +27,5 @@ class WPFuzz {
 	}
 }
 
-$toto = new WPFuzz();
+$wpfuzz = new WPFuzz();
 
