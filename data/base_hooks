@@ -1,2 +1,2218 @@
-{"pre_term_name":{"10":{"sanitize_text_field":{"function":"sanitize_text_field","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}},"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"pre_comment_author_name":{"10":{"sanitize_text_field":{"function":"sanitize_text_field","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}},"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"pre_link_name":{"10":{"sanitize_text_field":{"function":"sanitize_text_field","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}},"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"pre_link_target":{"10":{"sanitize_text_field":{"function":"sanitize_text_field","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}},"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"pre_link_rel":{"10":{"sanitize_text_field":{"function":"sanitize_text_field","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}},"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"pre_user_display_name":{"10":{"sanitize_text_field":{"function":"sanitize_text_field","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}},"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"pre_user_first_name":{"10":{"sanitize_text_field":{"function":"sanitize_text_field","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}},"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"pre_user_last_name":{"10":{"sanitize_text_field":{"function":"sanitize_text_field","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}},"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"pre_user_nickname":{"10":{"sanitize_text_field":{"function":"sanitize_text_field","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}},"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"term_name":{"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}},"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"esc_html":{"function":"esc_html","accepted_args":1}}},"comment_author_name":{"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"link_name":{"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}},"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"esc_html":{"function":"esc_html","accepted_args":1}}},"link_target":{"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"link_rel":{"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"user_display_name":{"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"user_first_name":{"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"user_last_name":{"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"user_nickname":{"30":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1}}},"pre_term_description":{"10":{"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_link_description":{"10":{"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_link_notes":{"10":{"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_user_description":{"10":{"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_comment_author_email":{"10":{"trim":{"function":"trim","accepted_args":1},"sanitize_email":{"function":"sanitize_email","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_user_email":{"10":{"trim":{"function":"trim","accepted_args":1},"sanitize_email":{"function":"sanitize_email","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"comment_author_email":{"10":{"sanitize_email":{"function":"sanitize_email","accepted_args":1}}},"user_email":{"10":{"sanitize_email":{"function":"sanitize_email","accepted_args":1}}},"pre_comment_author_url":{"10":{"wp_strip_all_tags":{"function":"wp_strip_all_tags","accepted_args":1},"esc_url_raw":{"function":"esc_url_raw","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_user_url":{"10":{"wp_strip_all_tags":{"function":"wp_strip_all_tags","accepted_args":1},"esc_url_raw":{"function":"esc_url_raw","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_link_url":{"10":{"wp_strip_all_tags":{"function":"wp_strip_all_tags","accepted_args":1},"esc_url_raw":{"function":"esc_url_raw","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_link_image":{"10":{"wp_strip_all_tags":{"function":"wp_strip_all_tags","accepted_args":1},"esc_url_raw":{"function":"esc_url_raw","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_link_rss":{"10":{"wp_strip_all_tags":{"function":"wp_strip_all_tags","accepted_args":1},"esc_url_raw":{"function":"esc_url_raw","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"pre_post_guid":{"10":{"wp_strip_all_tags":{"function":"wp_strip_all_tags","accepted_args":1},"esc_url_raw":{"function":"esc_url_raw","accepted_args":1},"wp_filter_kses":{"function":"wp_filter_kses","accepted_args":1}}},"user_url":{"10":{"esc_url":{"function":"esc_url","accepted_args":1}}},"link_url":{"10":{"esc_url":{"function":"esc_url","accepted_args":1}}},"link_image":{"10":{"esc_url":{"function":"esc_url","accepted_args":1}}},"link_rss":{"10":{"esc_url":{"function":"esc_url","accepted_args":1}}},"comment_url":{"10":{"esc_url":{"function":"esc_url","accepted_args":1}}},"post_guid":{"10":{"esc_url":{"function":"esc_url","accepted_args":1}}},"pre_term_slug":{"10":{"sanitize_title":{"function":"sanitize_title","accepted_args":1}}},"pre_post_type":{"10":{"sanitize_key":{"function":"sanitize_key","accepted_args":1}}},"pre_post_status":{"10":{"sanitize_key":{"function":"sanitize_key","accepted_args":1}}},"pre_post_comment_status":{"10":{"sanitize_key":{"function":"sanitize_key","accepted_args":1}}},"pre_post_ping_status":{"10":{"sanitize_key":{"function":"sanitize_key","accepted_args":1}}},"pre_post_mime_type":{"10":{"sanitize_mime_type":{"function":"sanitize_mime_type","accepted_args":1}}},"post_mime_type":{"10":{"sanitize_mime_type":{"function":"sanitize_mime_type","accepted_args":1}}},"content_save_pre":{"50":{"balanceTags":{"function":"balanceTags","accepted_args":1}}},"excerpt_save_pre":{"50":{"balanceTags":{"function":"balanceTags","accepted_args":1}}},"comment_save_pre":{"50":{"balanceTags":{"function":"balanceTags","accepted_args":1}}},"pre_comment_content":{"50":{"balanceTags":{"function":"balanceTags","accepted_args":1}},"15":{"wp_rel_nofollow":{"function":"wp_rel_nofollow","accepted_args":1}}},"comment_author":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"esc_html":{"function":"esc_html","accepted_args":1}}},"link_description":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"esc_html":{"function":"esc_html","accepted_args":1}}},"link_notes":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"esc_html":{"function":"esc_html","accepted_args":1}}},"bloginfo":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"esc_html":{"function":"esc_html","accepted_args":1}}},"wp_title":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"esc_html":{"function":"esc_html","accepted_args":1}},"11":{"capital_P_dangit":{"function":"capital_P_dangit","accepted_args":1}}},"widget_title":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"esc_html":{"function":"esc_html","accepted_args":1}}},"the_content":{"11":{"capital_P_dangit":{"function":"capital_P_dangit","accepted_args":1},"do_shortcode":{"function":"do_shortcode","accepted_args":1}},"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_smilies":{"function":"convert_smilies","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"wpautop":{"function":"wpautop","accepted_args":1},"shortcode_unautop":{"function":"shortcode_unautop","accepted_args":1},"prepend_attachment":{"function":"prepend_attachment","accepted_args":1}},"8":{"000000004ed5f18500007f565b666b79run_shortcode":{"function":[{"handlers":[],"post_ID":null,"usecache":true,"linkifunknown":true},"run_shortcode"],"accepted_args":1},"000000004ed5f18500007f565b666b79autoembed":{"function":[{"handlers":[],"post_ID":null,"usecache":true,"linkifunknown":true},"autoembed"],"accepted_args":1}}},"the_title":{"11":{"capital_P_dangit":{"function":"capital_P_dangit","accepted_args":1}},"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"trim":{"function":"trim","accepted_args":1}}},"comment_text":{"31":{"capital_P_dangit":{"function":"capital_P_dangit","accepted_args":1}},"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1}},"9":{"make_clickable":{"function":"make_clickable","accepted_args":1}},"25":{"force_balance_tags":{"function":"force_balance_tags","accepted_args":1}},"20":{"convert_smilies":{"function":"convert_smilies","accepted_args":1}},"30":{"wpautop":{"function":"wpautop","accepted_args":1}}},"single_post_title":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"strip_tags":{"function":"strip_tags","accepted_args":1}}},"single_cat_title":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"strip_tags":{"function":"strip_tags","accepted_args":1}}},"single_tag_title":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"strip_tags":{"function":"strip_tags","accepted_args":1}}},"single_month_title":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"strip_tags":{"function":"strip_tags","accepted_args":1}}},"nav_menu_attr_title":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"strip_tags":{"function":"strip_tags","accepted_args":1}}},"nav_menu_description":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"strip_tags":{"function":"strip_tags","accepted_args":1}}},"term_description":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"wpautop":{"function":"wpautop","accepted_args":1},"shortcode_unautop":{"function":"shortcode_unautop","accepted_args":1}}},"term_name_rss":{"10":{"convert_chars":{"function":"convert_chars","accepted_args":1}}},"wp_insert_post_parent":{"10":{"wp_check_post_hierarchy_for_loops":{"function":"wp_check_post_hierarchy_for_loops","accepted_args":2}}},"wp_update_term_parent":{"10":{"wp_check_term_hierarchy_for_loops":{"function":"wp_check_term_hierarchy_for_loops","accepted_args":3}}},"the_excerpt":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1},"convert_smilies":{"function":"convert_smilies","accepted_args":1},"convert_chars":{"function":"convert_chars","accepted_args":1},"wpautop":{"function":"wpautop","accepted_args":1},"shortcode_unautop":{"function":"shortcode_unautop","accepted_args":1}}},"get_the_excerpt":{"10":{"wp_trim_excerpt":{"function":"wp_trim_excerpt","accepted_args":1}}},"comment_excerpt":{"10":{"convert_chars":{"function":"convert_chars","accepted_args":1}}},"list_cats":{"10":{"wptexturize":{"function":"wptexturize","accepted_args":1}}},"wp_sprintf":{"10":{"wp_sprintf_l":{"function":"wp_sprintf_l","accepted_args":2}}},"the_title_rss":{"10":{"strip_tags":{"function":"strip_tags","accepted_args":1},"esc_html":{"function":"esc_html","accepted_args":1}},"8":{"ent2ncr":{"function":"ent2ncr","accepted_args":1}}},"the_content_rss":{"8":{"ent2ncr":{"function":"ent2ncr","accepted_args":1}}},"the_excerpt_rss":{"10":{"convert_chars":{"function":"convert_chars","accepted_args":1}},"8":{"ent2ncr":{"function":"ent2ncr","accepted_args":1}}},"comment_author_rss":{"8":{"ent2ncr":{"function":"ent2ncr","accepted_args":1}}},"comment_text_rss":{"8":{"ent2ncr":{"function":"ent2ncr","accepted_args":1}},"10":{"esc_html":{"function":"esc_html","accepted_args":1}}},"bloginfo_rss":{"8":{"ent2ncr":{"function":"ent2ncr","accepted_args":1}}},"the_author":{"8":{"ent2ncr":{"function":"ent2ncr","accepted_args":1}}},"option_ping_sites":{"10":{"privacy_ping_filter":{"function":"privacy_ping_filter","accepted_args":1}}},"option_blog_charset":{"10":{"_wp_specialchars":{"function":"_wp_specialchars","accepted_args":1},"_canonical_charset":{"function":"_canonical_charset","accepted_args":1}}},"option_home":{"10":{"_config_wp_home":{"function":"_config_wp_home","accepted_args":1}}},"option_siteurl":{"10":{"_config_wp_siteurl":{"function":"_config_wp_siteurl","accepted_args":1}}},"tiny_mce_before_init":{"10":{"_mce_set_direction":{"function":"_mce_set_direction","accepted_args":1}}},"pre_kses":{"10":{"wp_pre_kses_less_than":{"function":"wp_pre_kses_less_than","accepted_args":1}}},"sanitize_title":{"10":{"sanitize_title_with_dashes":{"function":"sanitize_title_with_dashes","accepted_args":3}}},"check_comment_flood":{"10":{"check_comment_flood_db":{"function":"check_comment_flood_db","accepted_args":3}}},"comment_flood_filter":{"10":{"wp_throttle_comment_flood":{"function":"wp_throttle_comment_flood","accepted_args":3}}},"comment_email":{"10":{"antispambot":{"function":"antispambot","accepted_args":1}}},"option_tag_base":{"10":{"_wp_filter_taxonomy_base":{"function":"_wp_filter_taxonomy_base","accepted_args":1}}},"option_category_base":{"10":{"_wp_filter_taxonomy_base":{"function":"_wp_filter_taxonomy_base","accepted_args":1}}},"the_posts":{"10":{"_close_comments_for_old_posts":{"function":"_close_comments_for_old_posts","accepted_args":2}}},"comments_open":{"10":{"_close_comments_for_old_post":{"function":"_close_comments_for_old_post","accepted_args":2}}},"pings_open":{"10":{"_close_comments_for_old_post":{"function":"_close_comments_for_old_post","accepted_args":2}}},"editable_slug":{"10":{"urldecode":{"function":"urldecode","accepted_args":1},"esc_textarea":{"function":"esc_textarea","accepted_args":1}}},"nav_menu_meta_box_object":{"10":{"_wp_nav_menu_meta_box_object":{"function":"_wp_nav_menu_meta_box_object","accepted_args":1}}},"pingback_ping_source_uri":{"10":{"pingback_ping_source_uri":{"function":"pingback_ping_source_uri","accepted_args":1}}},"xmlrpc_pingback_error":{"10":{"xmlrpc_pingback_error":{"function":"xmlrpc_pingback_error","accepted_args":1}}},"http_request_host_is_external":{"10":{"allowed_http_request_hosts":{"function":"allowed_http_request_hosts","accepted_args":2}}},"wp_head":{"1":{"wp_enqueue_scripts":{"function":"wp_enqueue_scripts","accepted_args":1},"noindex":{"function":"noindex","accepted_args":1}},"2":{"feed_links":{"function":"feed_links","accepted_args":1}},"3":{"feed_links_extra":{"function":"feed_links_extra","accepted_args":1}},"10":{"rsd_link":{"function":"rsd_link","accepted_args":1},"wlwmanifest_link":{"function":"wlwmanifest_link","accepted_args":1},"adjacent_posts_rel_link_wp_head":{"function":"adjacent_posts_rel_link_wp_head","accepted_args":0},"locale_stylesheet":{"function":"locale_stylesheet","accepted_args":1},"wp_generator":{"function":"wp_generator","accepted_args":1},"rel_canonical":{"function":"rel_canonical","accepted_args":1},"wp_shortlink_wp_head":{"function":"wp_shortlink_wp_head","accepted_args":0}},"8":{"wp_print_styles":{"function":"wp_print_styles","accepted_args":1}},"9":{"wp_print_head_scripts":{"function":"wp_print_head_scripts","accepted_args":1}}},"publish_future_post":{"10":{"check_and_publish_future_post":{"function":"check_and_publish_future_post","accepted_args":1}}},"wp_footer":{"20":{"wp_print_footer_scripts":{"function":"wp_print_footer_scripts","accepted_args":1}},"1000":{"wp_admin_bar_render":{"function":"wp_admin_bar_render","accepted_args":1}}},"template_redirect":{"11":{"wp_shortlink_header":{"function":"wp_shortlink_header","accepted_args":0}},"10":{"wp_old_slug_redirect":{"function":"wp_old_slug_redirect","accepted_args":1},"redirect_canonical":{"function":"redirect_canonical","accepted_args":1}},"1000":{"wp_redirect_admin_locations":{"function":"wp_redirect_admin_locations","accepted_args":1}},"0":{"_wp_admin_bar_init":{"function":"_wp_admin_bar_init","accepted_args":1}}},"wp_print_footer_scripts":{"10":{"_wp_footer_scripts":{"function":"_wp_footer_scripts","accepted_args":1}}},"init":{"99":{"check_theme_switched":{"function":"check_theme_switched","accepted_args":1}},"10":{"wp_cron":{"function":"wp_cron","accepted_args":1},"_show_post_preview":{"function":"_show_post_preview","accepted_args":1},"kses_init":{"function":"kses_init","accepted_args":1},"wp_schedule_update_checks":{"function":"wp_schedule_update_checks","accepted_args":1}},"5":{"smilies_init":{"function":"smilies_init","accepted_args":1}},"0":{"create_initial_post_types":{"function":"create_initial_post_types","accepted_args":1},"create_initial_taxonomies":{"function":"create_initial_taxonomies","accepted_args":1}}},"after_switch_theme":{"10":{"_wp_sidebars_changed":{"function":"_wp_sidebars_changed","accepted_args":1}}},"login_head":{"9":{"wp_print_head_scripts":{"function":"wp_print_head_scripts","accepted_args":1}}},"login_footer":{"20":{"wp_print_footer_scripts":{"function":"wp_print_footer_scripts","accepted_args":1}}},"login_init":{"10":{"send_frame_options_header":{"function":"send_frame_options_header","accepted_args":0}}},"rss2_head":{"10":{"the_generator":{"function":"the_generator","accepted_args":1}}},"commentsrss2_head":{"10":{"the_generator":{"function":"the_generator","accepted_args":1}}},"rss_head":{"10":{"the_generator":{"function":"the_generator","accepted_args":1}}},"rdf_header":{"10":{"the_generator":{"function":"the_generator","accepted_args":1}}},"atom_head":{"10":{"the_generator":{"function":"the_generator","accepted_args":1}}},"comments_atom_head":{"10":{"the_generator":{"function":"the_generator","accepted_args":1}}},"opml_head":{"10":{"the_generator":{"function":"the_generator","accepted_args":1}}},"app_head":{"10":{"the_generator":{"function":"the_generator","accepted_args":1}}},"do_feed_rdf":{"10":{"do_feed_rdf":{"function":"do_feed_rdf","accepted_args":1}}},"do_feed_rss":{"10":{"do_feed_rss":{"function":"do_feed_rss","accepted_args":1}}},"do_feed_rss2":{"10":{"do_feed_rss2":{"function":"do_feed_rss2","accepted_args":1}}},"do_feed_atom":{"10":{"do_feed_atom":{"function":"do_feed_atom","accepted_args":1}}},"do_pings":{"10":{"do_all_pings":{"function":"do_all_pings","accepted_args":1}}},"do_robots":{"10":{"do_robots":{"function":"do_robots","accepted_args":1}}},"set_comment_cookies":{"10":{"wp_set_comment_cookies":{"function":"wp_set_comment_cookies","accepted_args":2}}},"sanitize_comment_cookies":{"10":{"sanitize_comment_cookies":{"function":"sanitize_comment_cookies","accepted_args":1}}},"admin_print_scripts":{"20":{"print_head_scripts":{"function":"print_head_scripts","accepted_args":1}}},"admin_print_footer_scripts":{"10":{"_wp_footer_scripts":{"function":"_wp_footer_scripts","accepted_args":1}}},"admin_print_styles":{"20":{"print_admin_styles":{"function":"print_admin_styles","accepted_args":1}}},"plugins_loaded":{"0":{"wp_maybe_load_widgets":{"function":"wp_maybe_load_widgets","accepted_args":1},"wp_maybe_load_embeds":{"function":"wp_maybe_load_embeds","accepted_args":1}},"10":{"_wp_customize_include":{"function":"_wp_customize_include","accepted_args":1}}},"shutdown":{"1":{"wp_ob_end_flush_all":{"function":"wp_ob_end_flush_all","accepted_args":1}}},"post_updated":{"10":{"wp_save_post_revision":{"function":"wp_save_post_revision","accepted_args":1}},"12":{"wp_check_for_changed_slugs":{"function":"wp_check_for_changed_slugs","accepted_args":3}}},"publish_post":{"5":{"_publish_post_hook":{"function":"_publish_post_hook","accepted_args":1}}},"transition_post_status":{"5":{"_transition_post_status":{"function":"_transition_post_status","accepted_args":3}},"10":{"_update_term_count_on_transition_post_status":{"function":"_update_term_count_on_transition_post_status","accepted_args":3},"_wp_auto_add_pages_to_menu":{"function":"_wp_auto_add_pages_to_menu","accepted_args":3},"__clear_multi_author_cache":{"function":"__clear_multi_author_cache","accepted_args":1}}},"comment_form":{"10":{"wp_comment_form_unfiltered_html_nonce":{"function":"wp_comment_form_unfiltered_html_nonce","accepted_args":1}}},"wp_scheduled_delete":{"10":{"wp_scheduled_delete":{"function":"wp_scheduled_delete","accepted_args":1}}},"wp_scheduled_auto_draft_delete":{"10":{"wp_delete_auto_drafts":{"function":"wp_delete_auto_drafts","accepted_args":1}}},"admin_init":{"10":{"send_frame_options_header":{"function":"send_frame_options_header","accepted_args":0},"_maybe_update_core":{"function":"_maybe_update_core","accepted_args":1},"_maybe_update_plugins":{"function":"_maybe_update_plugins","accepted_args":1},"_maybe_update_themes":{"function":"_maybe_update_themes","accepted_args":1},"_wp_admin_bar_init":{"function":"_wp_admin_bar_init","accepted_args":1}},"1":{"register_admin_color_schemes":{"function":"register_admin_color_schemes","accepted_args":1}}},"importer_scheduled_cleanup":{"10":{"wp_delete_attachment":{"function":"wp_delete_attachment","accepted_args":1}}},"upgrader_scheduled_cleanup":{"10":{"wp_delete_attachment":{"function":"wp_delete_attachment","accepted_args":1}}},"welcome_panel":{"10":{"wp_welcome_panel":{"function":"wp_welcome_panel","accepted_args":1}}},"delete_post":{"10":{"_wp_delete_post_menu_item":{"function":"_wp_delete_post_menu_item","accepted_args":1},"delete_get_calendar_cache":{"function":"delete_get_calendar_cache","accepted_args":1}}},"delete_term":{"10":{"_wp_delete_tax_menu_item":{"function":"_wp_delete_tax_menu_item","accepted_args":3}}},"begin_fetch_post_thumbnail_html":{"10":{"_wp_post_thumbnail_class_filter_add":{"function":"_wp_post_thumbnail_class_filter_add","accepted_args":1}}},"end_fetch_post_thumbnail_html":{"10":{"_wp_post_thumbnail_class_filter_remove":{"function":"_wp_post_thumbnail_class_filter_remove","accepted_args":1}}},"pre_option_gmt_offset":{"10":{"wp_timezone_override_offset":{"function":"wp_timezone_override_offset","accepted_args":1}}},"admin_color_scheme_picker":{"10":{"admin_color_scheme_picker":{"function":"admin_color_scheme_picker","accepted_args":1}}},"default_option_link_manager_enabled":{"10":{"__return_true":{"function":"__return_true","accepted_args":1}}},"default_option_embed_autourls":{"10":{"__return_true":{"function":"__return_true","accepted_args":1}}},"heartbeat_settings":{"10":{"wp_heartbeat_settings":{"function":"wp_heartbeat_settings","accepted_args":1}}},"admin_enqueue_scripts":{"10":{"wp_auth_check_load":{"function":"wp_auth_check_load","accepted_args":1},"_wp_customize_loader_settings":{"function":"_wp_customize_loader_settings","accepted_args":1}}},"heartbeat_received":{"10":{"wp_auth_check":{"function":"wp_auth_check","accepted_args":2}}},"heartbeat_nopriv_received":{"10":{"wp_auth_check":{"function":"wp_auth_check","accepted_args":2}}},"authenticate":{"20":{"wp_authenticate_username_password":{"function":"wp_authenticate_username_password","accepted_args":3}},"99":{"wp_authenticate_spam_check":{"function":"wp_authenticate_spam_check","accepted_args":1}}},"setup_theme":{"10":{"preview_theme":{"function":"preview_theme","accepted_args":1}}},"wp_loaded":{"10":{"_custom_header_background_just_in_time":{"function":"_custom_header_background_just_in_time","accepted_args":1}}},"delete_attachment":{"10":{"_delete_attachment_theme_mod":{"function":"_delete_attachment_theme_mod","accepted_args":1}}},"save_post":{"10":{"delete_get_calendar_cache":{"function":"delete_get_calendar_cache","accepted_args":1}}},"update_option_start_of_week":{"10":{"delete_get_calendar_cache":{"function":"delete_get_calendar_cache","accepted_args":1}}},"update_option_gmt_offset":{"10":{"delete_get_calendar_cache":{"function":"delete_get_calendar_cache","accepted_args":1}}},"admin_menu":{"10":{"_add_post_type_submenus":{"function":"_add_post_type_submenus","accepted_args":1}}},"before_delete_post":{"10":{"_reset_front_page_settings_for_post":{"function":"_reset_front_page_settings_for_post","accepted_args":1}}},"wp_trash_post":{"10":{"_reset_front_page_settings_for_post":{"function":"_reset_front_page_settings_for_post","accepted_args":1}}},"request":{"10":{"_post_format_request":{"function":"_post_format_request","accepted_args":1}}},"term_link":{"10":{"_post_format_link":{"function":"_post_format_link","accepted_args":3}}},"get_post_format":{"10":{"_post_format_get_term":{"function":"_post_format_get_term","accepted_args":1}}},"get_terms":{"10":{"_post_format_get_terms":{"function":"_post_format_get_terms","accepted_args":3}}},"wp_get_object_terms":{"10":{"_post_format_wp_get_object_terms":{"function":"_post_format_wp_get_object_terms","accepted_args":1}}},"set_current_user":{"10":{"kses_init":{"function":"kses_init","accepted_args":1}}},"wp_default_scripts":{"10":{"wp_default_scripts":{"function":"wp_default_scripts","accepted_args":1}}},"wp_print_scripts":{"10":{"wp_just_in_time_script_localization":{"function":"wp_just_in_time_script_localization","accepted_args":1}}},"print_scripts_array":{"10":{"wp_prototype_before_jquery":{"function":"wp_prototype_before_jquery","accepted_args":1}}},"wp_default_styles":{"10":{"wp_default_styles":{"function":"wp_default_styles","accepted_args":1}}},"style_loader_src":{"10":{"wp_style_loader_src":{"function":"wp_style_loader_src","accepted_args":2}}},"wp_version_check":{"10":{"wp_version_check":{"function":"wp_version_check","accepted_args":1}}},"upgrader_process_complete":{"10":{"wp_version_check":{"function":"wp_version_check","accepted_args":0},"wp_update_plugins":{"function":"wp_update_plugins","accepted_args":1},"wp_update_themes":{"function":"wp_update_themes","accepted_args":1}}},"load-plugins.php":{"10":{"wp_update_plugins":{"function":"wp_update_plugins","accepted_args":1}}},"load-update.php":{"10":{"wp_update_plugins":{"function":"wp_update_plugins","accepted_args":1},"wp_update_themes":{"function":"wp_update_themes","accepted_args":1}}},"load-update-core.php":{"10":{"wp_update_plugins":{"function":"wp_update_plugins","accepted_args":1},"wp_update_themes":{"function":"wp_update_themes","accepted_args":1}}},"wp_update_plugins":{"10":{"wp_update_plugins":{"function":"wp_update_plugins","accepted_args":1}}},"load-themes.php":{"10":{"wp_update_themes":{"function":"wp_update_themes","accepted_args":1}}},"wp_update_themes":{"10":{"wp_update_themes":{"function":"wp_update_themes","accepted_args":1}}},"wp_maybe_auto_update":{"10":{"wp_maybe_auto_update":{"function":"wp_maybe_auto_update","accepted_args":1}}},"pre_post_update":{"10":{"000000004ed5f18500007f565b666b79delete_oembed_caches":{"function":[{"handlers":[],"post_ID":null,"usecache":true,"linkifunknown":true},"delete_oembed_caches"],"accepted_args":1}}},"edit_form_advanced":{"10":{"000000004ed5f18500007f565b666b79maybe_run_ajax_cache":{"function":[{"handlers":[],"post_ID":null,"usecache":true,"linkifunknown":true},"maybe_run_ajax_cache"],"accepted_args":1}}},"customize_controls_enqueue_scripts":{"10":{"wp_plupload_default_settings":{"function":"wp_plupload_default_settings","accepted_args":1}}},"nav_menu_item_id":{"10":{"_nav_menu_item_id_use_once":{"function":"_nav_menu_item_id_use_once","accepted_args":2}}},"in_admin_header":[{"wp_admin_bar_render":{"function":"wp_admin_bar_render","accepted_args":1}}],"wp_ajax_add-category":{"10":{"_wp_ajax_add_hierarchical_term":{"function":"_wp_ajax_add_hierarchical_term","accepted_args":1}}},"wp_ajax_add-post_tag":{"10":{"_wp_ajax_add_hierarchical_term":{"function":"_wp_ajax_add_hierarchical_term","accepted_args":1}}},"wp_ajax_add-nav_menu":{"10":{"_wp_ajax_add_hierarchical_term":{"function":"_wp_ajax_add_hierarchical_term","accepted_args":1}}},"wp_ajax_add-link_category":{"10":{"_wp_ajax_add_hierarchical_term":{"function":"_wp_ajax_add_hierarchical_term","accepted_args":1}}},"wp_ajax_add-post_format":{"10":{"_wp_ajax_add_hierarchical_term":{"function":"_wp_ajax_add_hierarchical_term","accepted_args":1}}},"future_post":{"5":{"_future_post_hook":{"function":"_future_post_hook","accepted_args":2}}},"future_page":{"5":{"_future_post_hook":{"function":"_future_post_hook","accepted_args":2}}},"future_attachment":{"5":{"_future_post_hook":{"function":"_future_post_hook","accepted_args":2}}},"future_revision":{"5":{"_future_post_hook":{"function":"_future_post_hook","accepted_args":2}}},"future_nav_menu_item":{"5":{"_future_post_hook":{"function":"_future_post_hook","accepted_args":2}}}}
-
+{
+    "pre_term_name": {
+        "10": {
+            "sanitize_text_field": {
+                "function": "sanitize_text_field",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_comment_author_name": {
+        "10": {
+            "sanitize_text_field": {
+                "function": "sanitize_text_field",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_link_name": {
+        "10": {
+            "sanitize_text_field": {
+                "function": "sanitize_text_field",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_link_target": {
+        "10": {
+            "sanitize_text_field": {
+                "function": "sanitize_text_field",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_link_rel": {
+        "10": {
+            "sanitize_text_field": {
+                "function": "sanitize_text_field",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_user_display_name": {
+        "10": {
+            "sanitize_text_field": {
+                "function": "sanitize_text_field",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_user_first_name": {
+        "10": {
+            "sanitize_text_field": {
+                "function": "sanitize_text_field",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_user_last_name": {
+        "10": {
+            "sanitize_text_field": {
+                "function": "sanitize_text_field",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_user_nickname": {
+        "10": {
+            "sanitize_text_field": {
+                "function": "sanitize_text_field",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "term_name": {
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        },
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_author_name": {
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "link_name": {
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        },
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        }
+    },
+    "link_target": {
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "link_rel": {
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "user_display_name": {
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "user_first_name": {
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "user_last_name": {
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "user_nickname": {
+        "30": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_term_description": {
+        "10": {
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_link_description": {
+        "10": {
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_link_notes": {
+        "10": {
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_user_description": {
+        "10": {
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_comment_author_email": {
+        "10": {
+            "trim": {
+                "function": "trim",
+                "accepted_args": 1
+            },
+            "sanitize_email": {
+                "function": "sanitize_email",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_user_email": {
+        "10": {
+            "trim": {
+                "function": "trim",
+                "accepted_args": 1
+            },
+            "sanitize_email": {
+                "function": "sanitize_email",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_author_email": {
+        "10": {
+            "sanitize_email": {
+                "function": "sanitize_email",
+                "accepted_args": 1
+            }
+        }
+    },
+    "user_email": {
+        "10": {
+            "sanitize_email": {
+                "function": "sanitize_email",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_comment_author_url": {
+        "10": {
+            "wp_strip_all_tags": {
+                "function": "wp_strip_all_tags",
+                "accepted_args": 1
+            },
+            "esc_url_raw": {
+                "function": "esc_url_raw",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_user_url": {
+        "10": {
+            "wp_strip_all_tags": {
+                "function": "wp_strip_all_tags",
+                "accepted_args": 1
+            },
+            "esc_url_raw": {
+                "function": "esc_url_raw",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_link_url": {
+        "10": {
+            "wp_strip_all_tags": {
+                "function": "wp_strip_all_tags",
+                "accepted_args": 1
+            },
+            "esc_url_raw": {
+                "function": "esc_url_raw",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_link_image": {
+        "10": {
+            "wp_strip_all_tags": {
+                "function": "wp_strip_all_tags",
+                "accepted_args": 1
+            },
+            "esc_url_raw": {
+                "function": "esc_url_raw",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_link_rss": {
+        "10": {
+            "wp_strip_all_tags": {
+                "function": "wp_strip_all_tags",
+                "accepted_args": 1
+            },
+            "esc_url_raw": {
+                "function": "esc_url_raw",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_post_guid": {
+        "10": {
+            "wp_strip_all_tags": {
+                "function": "wp_strip_all_tags",
+                "accepted_args": 1
+            },
+            "esc_url_raw": {
+                "function": "esc_url_raw",
+                "accepted_args": 1
+            },
+            "wp_filter_kses": {
+                "function": "wp_filter_kses",
+                "accepted_args": 1
+            }
+        }
+    },
+    "user_url": {
+        "10": {
+            "esc_url": {
+                "function": "esc_url",
+                "accepted_args": 1
+            }
+        }
+    },
+    "link_url": {
+        "10": {
+            "esc_url": {
+                "function": "esc_url",
+                "accepted_args": 1
+            }
+        }
+    },
+    "link_image": {
+        "10": {
+            "esc_url": {
+                "function": "esc_url",
+                "accepted_args": 1
+            }
+        }
+    },
+    "link_rss": {
+        "10": {
+            "esc_url": {
+                "function": "esc_url",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_url": {
+        "10": {
+            "esc_url": {
+                "function": "esc_url",
+                "accepted_args": 1
+            }
+        }
+    },
+    "post_guid": {
+        "10": {
+            "esc_url": {
+                "function": "esc_url",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_term_slug": {
+        "10": {
+            "sanitize_title": {
+                "function": "sanitize_title",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_post_type": {
+        "10": {
+            "sanitize_key": {
+                "function": "sanitize_key",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_post_status": {
+        "10": {
+            "sanitize_key": {
+                "function": "sanitize_key",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_post_comment_status": {
+        "10": {
+            "sanitize_key": {
+                "function": "sanitize_key",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_post_ping_status": {
+        "10": {
+            "sanitize_key": {
+                "function": "sanitize_key",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_post_mime_type": {
+        "10": {
+            "sanitize_mime_type": {
+                "function": "sanitize_mime_type",
+                "accepted_args": 1
+            }
+        }
+    },
+    "post_mime_type": {
+        "10": {
+            "sanitize_mime_type": {
+                "function": "sanitize_mime_type",
+                "accepted_args": 1
+            }
+        }
+    },
+    "content_save_pre": {
+        "50": {
+            "balanceTags": {
+                "function": "balanceTags",
+                "accepted_args": 1
+            }
+        }
+    },
+    "excerpt_save_pre": {
+        "50": {
+            "balanceTags": {
+                "function": "balanceTags",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_save_pre": {
+        "50": {
+            "balanceTags": {
+                "function": "balanceTags",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_comment_content": {
+        "50": {
+            "balanceTags": {
+                "function": "balanceTags",
+                "accepted_args": 1
+            }
+        },
+        "15": {
+            "wp_rel_nofollow": {
+                "function": "wp_rel_nofollow",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_author": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        }
+    },
+    "link_description": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        }
+    },
+    "link_notes": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        }
+    },
+    "bloginfo": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_title": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        },
+        "11": {
+            "capital_P_dangit": {
+                "function": "capital_P_dangit",
+                "accepted_args": 1
+            }
+        }
+    },
+    "widget_title": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        }
+    },
+    "the_content": {
+        "11": {
+            "capital_P_dangit": {
+                "function": "capital_P_dangit",
+                "accepted_args": 1
+            },
+            "do_shortcode": {
+                "function": "do_shortcode",
+                "accepted_args": 1
+            }
+        },
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_smilies": {
+                "function": "convert_smilies",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "wpautop": {
+                "function": "wpautop",
+                "accepted_args": 1
+            },
+            "shortcode_unautop": {
+                "function": "shortcode_unautop",
+                "accepted_args": 1
+            },
+            "prepend_attachment": {
+                "function": "prepend_attachment",
+                "accepted_args": 1
+            }
+        },
+        "8": {
+            "000000004ed5f18500007f565b666b79run_shortcode": {
+                "function": [{
+                    "handlers": [],
+                    "post_ID": null,
+                    "usecache": true,
+                    "linkifunknown": true
+                }, "run_shortcode"],
+                "accepted_args": 1
+            },
+            "000000004ed5f18500007f565b666b79autoembed": {
+                "function": [{
+                    "handlers": [],
+                    "post_ID": null,
+                    "usecache": true,
+                    "linkifunknown": true
+                }, "autoembed"],
+                "accepted_args": 1
+            }
+        }
+    },
+    "the_title": {
+        "11": {
+            "capital_P_dangit": {
+                "function": "capital_P_dangit",
+                "accepted_args": 1
+            }
+        },
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "trim": {
+                "function": "trim",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_text": {
+        "31": {
+            "capital_P_dangit": {
+                "function": "capital_P_dangit",
+                "accepted_args": 1
+            }
+        },
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            }
+        },
+        "9": {
+            "make_clickable": {
+                "function": "make_clickable",
+                "accepted_args": 1
+            }
+        },
+        "25": {
+            "force_balance_tags": {
+                "function": "force_balance_tags",
+                "accepted_args": 1
+            }
+        },
+        "20": {
+            "convert_smilies": {
+                "function": "convert_smilies",
+                "accepted_args": 1
+            }
+        },
+        "30": {
+            "wpautop": {
+                "function": "wpautop",
+                "accepted_args": 1
+            }
+        }
+    },
+    "single_post_title": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "strip_tags": {
+                "function": "strip_tags",
+                "accepted_args": 1
+            }
+        }
+    },
+    "single_cat_title": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "strip_tags": {
+                "function": "strip_tags",
+                "accepted_args": 1
+            }
+        }
+    },
+    "single_tag_title": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "strip_tags": {
+                "function": "strip_tags",
+                "accepted_args": 1
+            }
+        }
+    },
+    "single_month_title": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "strip_tags": {
+                "function": "strip_tags",
+                "accepted_args": 1
+            }
+        }
+    },
+    "nav_menu_attr_title": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "strip_tags": {
+                "function": "strip_tags",
+                "accepted_args": 1
+            }
+        }
+    },
+    "nav_menu_description": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "strip_tags": {
+                "function": "strip_tags",
+                "accepted_args": 1
+            }
+        }
+    },
+    "term_description": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "wpautop": {
+                "function": "wpautop",
+                "accepted_args": 1
+            },
+            "shortcode_unautop": {
+                "function": "shortcode_unautop",
+                "accepted_args": 1
+            }
+        }
+    },
+    "term_name_rss": {
+        "10": {
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_insert_post_parent": {
+        "10": {
+            "wp_check_post_hierarchy_for_loops": {
+                "function": "wp_check_post_hierarchy_for_loops",
+                "accepted_args": 2
+            }
+        }
+    },
+    "wp_update_term_parent": {
+        "10": {
+            "wp_check_term_hierarchy_for_loops": {
+                "function": "wp_check_term_hierarchy_for_loops",
+                "accepted_args": 3
+            }
+        }
+    },
+    "the_excerpt": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            },
+            "convert_smilies": {
+                "function": "convert_smilies",
+                "accepted_args": 1
+            },
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            },
+            "wpautop": {
+                "function": "wpautop",
+                "accepted_args": 1
+            },
+            "shortcode_unautop": {
+                "function": "shortcode_unautop",
+                "accepted_args": 1
+            }
+        }
+    },
+    "get_the_excerpt": {
+        "10": {
+            "wp_trim_excerpt": {
+                "function": "wp_trim_excerpt",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_excerpt": {
+        "10": {
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            }
+        }
+    },
+    "list_cats": {
+        "10": {
+            "wptexturize": {
+                "function": "wptexturize",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_sprintf": {
+        "10": {
+            "wp_sprintf_l": {
+                "function": "wp_sprintf_l",
+                "accepted_args": 2
+            }
+        }
+    },
+    "the_title_rss": {
+        "10": {
+            "strip_tags": {
+                "function": "strip_tags",
+                "accepted_args": 1
+            },
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        },
+        "8": {
+            "ent2ncr": {
+                "function": "ent2ncr",
+                "accepted_args": 1
+            }
+        }
+    },
+    "the_content_rss": {
+        "8": {
+            "ent2ncr": {
+                "function": "ent2ncr",
+                "accepted_args": 1
+            }
+        }
+    },
+    "the_excerpt_rss": {
+        "10": {
+            "convert_chars": {
+                "function": "convert_chars",
+                "accepted_args": 1
+            }
+        },
+        "8": {
+            "ent2ncr": {
+                "function": "ent2ncr",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_author_rss": {
+        "8": {
+            "ent2ncr": {
+                "function": "ent2ncr",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_text_rss": {
+        "8": {
+            "ent2ncr": {
+                "function": "ent2ncr",
+                "accepted_args": 1
+            }
+        },
+        "10": {
+            "esc_html": {
+                "function": "esc_html",
+                "accepted_args": 1
+            }
+        }
+    },
+    "bloginfo_rss": {
+        "8": {
+            "ent2ncr": {
+                "function": "ent2ncr",
+                "accepted_args": 1
+            }
+        }
+    },
+    "the_author": {
+        "8": {
+            "ent2ncr": {
+                "function": "ent2ncr",
+                "accepted_args": 1
+            }
+        }
+    },
+    "option_ping_sites": {
+        "10": {
+            "privacy_ping_filter": {
+                "function": "privacy_ping_filter",
+                "accepted_args": 1
+            }
+        }
+    },
+    "option_blog_charset": {
+        "10": {
+            "_wp_specialchars": {
+                "function": "_wp_specialchars",
+                "accepted_args": 1
+            },
+            "_canonical_charset": {
+                "function": "_canonical_charset",
+                "accepted_args": 1
+            }
+        }
+    },
+    "option_home": {
+        "10": {
+            "_config_wp_home": {
+                "function": "_config_wp_home",
+                "accepted_args": 1
+            }
+        }
+    },
+    "option_siteurl": {
+        "10": {
+            "_config_wp_siteurl": {
+                "function": "_config_wp_siteurl",
+                "accepted_args": 1
+            }
+        }
+    },
+    "tiny_mce_before_init": {
+        "10": {
+            "_mce_set_direction": {
+                "function": "_mce_set_direction",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_kses": {
+        "10": {
+            "wp_pre_kses_less_than": {
+                "function": "wp_pre_kses_less_than",
+                "accepted_args": 1
+            }
+        }
+    },
+    "sanitize_title": {
+        "10": {
+            "sanitize_title_with_dashes": {
+                "function": "sanitize_title_with_dashes",
+                "accepted_args": 3
+            }
+        }
+    },
+    "check_comment_flood": {
+        "10": {
+            "check_comment_flood_db": {
+                "function": "check_comment_flood_db",
+                "accepted_args": 3
+            }
+        }
+    },
+    "comment_flood_filter": {
+        "10": {
+            "wp_throttle_comment_flood": {
+                "function": "wp_throttle_comment_flood",
+                "accepted_args": 3
+            }
+        }
+    },
+    "comment_email": {
+        "10": {
+            "antispambot": {
+                "function": "antispambot",
+                "accepted_args": 1
+            }
+        }
+    },
+    "option_tag_base": {
+        "10": {
+            "_wp_filter_taxonomy_base": {
+                "function": "_wp_filter_taxonomy_base",
+                "accepted_args": 1
+            }
+        }
+    },
+    "option_category_base": {
+        "10": {
+            "_wp_filter_taxonomy_base": {
+                "function": "_wp_filter_taxonomy_base",
+                "accepted_args": 1
+            }
+        }
+    },
+    "the_posts": {
+        "10": {
+            "_close_comments_for_old_posts": {
+                "function": "_close_comments_for_old_posts",
+                "accepted_args": 2
+            }
+        }
+    },
+    "comments_open": {
+        "10": {
+            "_close_comments_for_old_post": {
+                "function": "_close_comments_for_old_post",
+                "accepted_args": 2
+            }
+        }
+    },
+    "pings_open": {
+        "10": {
+            "_close_comments_for_old_post": {
+                "function": "_close_comments_for_old_post",
+                "accepted_args": 2
+            }
+        }
+    },
+    "editable_slug": {
+        "10": {
+            "urldecode": {
+                "function": "urldecode",
+                "accepted_args": 1
+            },
+            "esc_textarea": {
+                "function": "esc_textarea",
+                "accepted_args": 1
+            }
+        }
+    },
+    "nav_menu_meta_box_object": {
+        "10": {
+            "_wp_nav_menu_meta_box_object": {
+                "function": "_wp_nav_menu_meta_box_object",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pingback_ping_source_uri": {
+        "10": {
+            "pingback_ping_source_uri": {
+                "function": "pingback_ping_source_uri",
+                "accepted_args": 1
+            }
+        }
+    },
+    "xmlrpc_pingback_error": {
+        "10": {
+            "xmlrpc_pingback_error": {
+                "function": "xmlrpc_pingback_error",
+                "accepted_args": 1
+            }
+        }
+    },
+    "http_request_host_is_external": {
+        "10": {
+            "allowed_http_request_hosts": {
+                "function": "allowed_http_request_hosts",
+                "accepted_args": 2
+            }
+        }
+    },
+    "wp_head": {
+        "1": {
+            "wp_enqueue_scripts": {
+                "function": "wp_enqueue_scripts",
+                "accepted_args": 1
+            },
+            "noindex": {
+                "function": "noindex",
+                "accepted_args": 1
+            }
+        },
+        "2": {
+            "feed_links": {
+                "function": "feed_links",
+                "accepted_args": 1
+            }
+        },
+        "3": {
+            "feed_links_extra": {
+                "function": "feed_links_extra",
+                "accepted_args": 1
+            }
+        },
+        "10": {
+            "rsd_link": {
+                "function": "rsd_link",
+                "accepted_args": 1
+            },
+            "wlwmanifest_link": {
+                "function": "wlwmanifest_link",
+                "accepted_args": 1
+            },
+            "adjacent_posts_rel_link_wp_head": {
+                "function": "adjacent_posts_rel_link_wp_head",
+                "accepted_args": 0
+            },
+            "locale_stylesheet": {
+                "function": "locale_stylesheet",
+                "accepted_args": 1
+            },
+            "wp_generator": {
+                "function": "wp_generator",
+                "accepted_args": 1
+            },
+            "rel_canonical": {
+                "function": "rel_canonical",
+                "accepted_args": 1
+            },
+            "wp_shortlink_wp_head": {
+                "function": "wp_shortlink_wp_head",
+                "accepted_args": 0
+            }
+        },
+        "8": {
+            "wp_print_styles": {
+                "function": "wp_print_styles",
+                "accepted_args": 1
+            }
+        },
+        "9": {
+            "wp_print_head_scripts": {
+                "function": "wp_print_head_scripts",
+                "accepted_args": 1
+            }
+        }
+    },
+    "publish_future_post": {
+        "10": {
+            "check_and_publish_future_post": {
+                "function": "check_and_publish_future_post",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_footer": {
+        "20": {
+            "wp_print_footer_scripts": {
+                "function": "wp_print_footer_scripts",
+                "accepted_args": 1
+            }
+        },
+        "1000": {
+            "wp_admin_bar_render": {
+                "function": "wp_admin_bar_render",
+                "accepted_args": 1
+            }
+        }
+    },
+    "template_redirect": {
+        "11": {
+            "wp_shortlink_header": {
+                "function": "wp_shortlink_header",
+                "accepted_args": 0
+            }
+        },
+        "10": {
+            "wp_old_slug_redirect": {
+                "function": "wp_old_slug_redirect",
+                "accepted_args": 1
+            },
+            "redirect_canonical": {
+                "function": "redirect_canonical",
+                "accepted_args": 1
+            }
+        },
+        "1000": {
+            "wp_redirect_admin_locations": {
+                "function": "wp_redirect_admin_locations",
+                "accepted_args": 1
+            }
+        },
+        "0": {
+            "_wp_admin_bar_init": {
+                "function": "_wp_admin_bar_init",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_print_footer_scripts": {
+        "10": {
+            "_wp_footer_scripts": {
+                "function": "_wp_footer_scripts",
+                "accepted_args": 1
+            }
+        }
+    },
+    "init": {
+        "99": {
+            "check_theme_switched": {
+                "function": "check_theme_switched",
+                "accepted_args": 1
+            }
+        },
+        "10": {
+            "wp_cron": {
+                "function": "wp_cron",
+                "accepted_args": 1
+            },
+            "_show_post_preview": {
+                "function": "_show_post_preview",
+                "accepted_args": 1
+            },
+            "kses_init": {
+                "function": "kses_init",
+                "accepted_args": 1
+            },
+            "wp_schedule_update_checks": {
+                "function": "wp_schedule_update_checks",
+                "accepted_args": 1
+            }
+        },
+        "5": {
+            "smilies_init": {
+                "function": "smilies_init",
+                "accepted_args": 1
+            }
+        },
+        "0": {
+            "create_initial_post_types": {
+                "function": "create_initial_post_types",
+                "accepted_args": 1
+            },
+            "create_initial_taxonomies": {
+                "function": "create_initial_taxonomies",
+                "accepted_args": 1
+            }
+        }
+    },
+    "after_switch_theme": {
+        "10": {
+            "_wp_sidebars_changed": {
+                "function": "_wp_sidebars_changed",
+                "accepted_args": 1
+            }
+        }
+    },
+    "login_head": {
+        "9": {
+            "wp_print_head_scripts": {
+                "function": "wp_print_head_scripts",
+                "accepted_args": 1
+            }
+        }
+    },
+    "login_footer": {
+        "20": {
+            "wp_print_footer_scripts": {
+                "function": "wp_print_footer_scripts",
+                "accepted_args": 1
+            }
+        }
+    },
+    "login_init": {
+        "10": {
+            "send_frame_options_header": {
+                "function": "send_frame_options_header",
+                "accepted_args": 0
+            }
+        }
+    },
+    "rss2_head": {
+        "10": {
+            "the_generator": {
+                "function": "the_generator",
+                "accepted_args": 1
+            }
+        }
+    },
+    "commentsrss2_head": {
+        "10": {
+            "the_generator": {
+                "function": "the_generator",
+                "accepted_args": 1
+            }
+        }
+    },
+    "rss_head": {
+        "10": {
+            "the_generator": {
+                "function": "the_generator",
+                "accepted_args": 1
+            }
+        }
+    },
+    "rdf_header": {
+        "10": {
+            "the_generator": {
+                "function": "the_generator",
+                "accepted_args": 1
+            }
+        }
+    },
+    "atom_head": {
+        "10": {
+            "the_generator": {
+                "function": "the_generator",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comments_atom_head": {
+        "10": {
+            "the_generator": {
+                "function": "the_generator",
+                "accepted_args": 1
+            }
+        }
+    },
+    "opml_head": {
+        "10": {
+            "the_generator": {
+                "function": "the_generator",
+                "accepted_args": 1
+            }
+        }
+    },
+    "app_head": {
+        "10": {
+            "the_generator": {
+                "function": "the_generator",
+                "accepted_args": 1
+            }
+        }
+    },
+    "do_feed_rdf": {
+        "10": {
+            "do_feed_rdf": {
+                "function": "do_feed_rdf",
+                "accepted_args": 1
+            }
+        }
+    },
+    "do_feed_rss": {
+        "10": {
+            "do_feed_rss": {
+                "function": "do_feed_rss",
+                "accepted_args": 1
+            }
+        }
+    },
+    "do_feed_rss2": {
+        "10": {
+            "do_feed_rss2": {
+                "function": "do_feed_rss2",
+                "accepted_args": 1
+            }
+        }
+    },
+    "do_feed_atom": {
+        "10": {
+            "do_feed_atom": {
+                "function": "do_feed_atom",
+                "accepted_args": 1
+            }
+        }
+    },
+    "do_pings": {
+        "10": {
+            "do_all_pings": {
+                "function": "do_all_pings",
+                "accepted_args": 1
+            }
+        }
+    },
+    "do_robots": {
+        "10": {
+            "do_robots": {
+                "function": "do_robots",
+                "accepted_args": 1
+            }
+        }
+    },
+    "set_comment_cookies": {
+        "10": {
+            "wp_set_comment_cookies": {
+                "function": "wp_set_comment_cookies",
+                "accepted_args": 2
+            }
+        }
+    },
+    "sanitize_comment_cookies": {
+        "10": {
+            "sanitize_comment_cookies": {
+                "function": "sanitize_comment_cookies",
+                "accepted_args": 1
+            }
+        }
+    },
+    "admin_print_scripts": {
+        "20": {
+            "print_head_scripts": {
+                "function": "print_head_scripts",
+                "accepted_args": 1
+            }
+        }
+    },
+    "admin_print_footer_scripts": {
+        "10": {
+            "_wp_footer_scripts": {
+                "function": "_wp_footer_scripts",
+                "accepted_args": 1
+            }
+        }
+    },
+    "admin_print_styles": {
+        "20": {
+            "print_admin_styles": {
+                "function": "print_admin_styles",
+                "accepted_args": 1
+            }
+        }
+    },
+    "plugins_loaded": {
+        "0": {
+            "wp_maybe_load_widgets": {
+                "function": "wp_maybe_load_widgets",
+                "accepted_args": 1
+            },
+            "wp_maybe_load_embeds": {
+                "function": "wp_maybe_load_embeds",
+                "accepted_args": 1
+            }
+        },
+        "10": {
+            "_wp_customize_include": {
+                "function": "_wp_customize_include",
+                "accepted_args": 1
+            }
+        }
+    },
+    "shutdown": {
+        "1": {
+            "wp_ob_end_flush_all": {
+                "function": "wp_ob_end_flush_all",
+                "accepted_args": 1
+            }
+        }
+    },
+    "post_updated": {
+        "10": {
+            "wp_save_post_revision": {
+                "function": "wp_save_post_revision",
+                "accepted_args": 1
+            }
+        },
+        "12": {
+            "wp_check_for_changed_slugs": {
+                "function": "wp_check_for_changed_slugs",
+                "accepted_args": 3
+            }
+        }
+    },
+    "publish_post": {
+        "5": {
+            "_publish_post_hook": {
+                "function": "_publish_post_hook",
+                "accepted_args": 1
+            }
+        }
+    },
+    "transition_post_status": {
+        "5": {
+            "_transition_post_status": {
+                "function": "_transition_post_status",
+                "accepted_args": 3
+            }
+        },
+        "10": {
+            "_update_term_count_on_transition_post_status": {
+                "function": "_update_term_count_on_transition_post_status",
+                "accepted_args": 3
+            },
+            "_wp_auto_add_pages_to_menu": {
+                "function": "_wp_auto_add_pages_to_menu",
+                "accepted_args": 3
+            },
+            "__clear_multi_author_cache": {
+                "function": "__clear_multi_author_cache",
+                "accepted_args": 1
+            }
+        }
+    },
+    "comment_form": {
+        "10": {
+            "wp_comment_form_unfiltered_html_nonce": {
+                "function": "wp_comment_form_unfiltered_html_nonce",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_scheduled_delete": {
+        "10": {
+            "wp_scheduled_delete": {
+                "function": "wp_scheduled_delete",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_scheduled_auto_draft_delete": {
+        "10": {
+            "wp_delete_auto_drafts": {
+                "function": "wp_delete_auto_drafts",
+                "accepted_args": 1
+            }
+        }
+    },
+    "admin_init": {
+        "10": {
+            "send_frame_options_header": {
+                "function": "send_frame_options_header",
+                "accepted_args": 0
+            },
+            "_maybe_update_core": {
+                "function": "_maybe_update_core",
+                "accepted_args": 1
+            },
+            "_maybe_update_plugins": {
+                "function": "_maybe_update_plugins",
+                "accepted_args": 1
+            },
+            "_maybe_update_themes": {
+                "function": "_maybe_update_themes",
+                "accepted_args": 1
+            },
+            "_wp_admin_bar_init": {
+                "function": "_wp_admin_bar_init",
+                "accepted_args": 1
+            }
+        },
+        "1": {
+            "register_admin_color_schemes": {
+                "function": "register_admin_color_schemes",
+                "accepted_args": 1
+            }
+        }
+    },
+    "importer_scheduled_cleanup": {
+        "10": {
+            "wp_delete_attachment": {
+                "function": "wp_delete_attachment",
+                "accepted_args": 1
+            }
+        }
+    },
+    "upgrader_scheduled_cleanup": {
+        "10": {
+            "wp_delete_attachment": {
+                "function": "wp_delete_attachment",
+                "accepted_args": 1
+            }
+        }
+    },
+    "welcome_panel": {
+        "10": {
+            "wp_welcome_panel": {
+                "function": "wp_welcome_panel",
+                "accepted_args": 1
+            }
+        }
+    },
+    "delete_post": {
+        "10": {
+            "_wp_delete_post_menu_item": {
+                "function": "_wp_delete_post_menu_item",
+                "accepted_args": 1
+            },
+            "delete_get_calendar_cache": {
+                "function": "delete_get_calendar_cache",
+                "accepted_args": 1
+            }
+        }
+    },
+    "delete_term": {
+        "10": {
+            "_wp_delete_tax_menu_item": {
+                "function": "_wp_delete_tax_menu_item",
+                "accepted_args": 3
+            }
+        }
+    },
+    "begin_fetch_post_thumbnail_html": {
+        "10": {
+            "_wp_post_thumbnail_class_filter_add": {
+                "function": "_wp_post_thumbnail_class_filter_add",
+                "accepted_args": 1
+            }
+        }
+    },
+    "end_fetch_post_thumbnail_html": {
+        "10": {
+            "_wp_post_thumbnail_class_filter_remove": {
+                "function": "_wp_post_thumbnail_class_filter_remove",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_option_gmt_offset": {
+        "10": {
+            "wp_timezone_override_offset": {
+                "function": "wp_timezone_override_offset",
+                "accepted_args": 1
+            }
+        }
+    },
+    "admin_color_scheme_picker": {
+        "10": {
+            "admin_color_scheme_picker": {
+                "function": "admin_color_scheme_picker",
+                "accepted_args": 1
+            }
+        }
+    },
+    "default_option_link_manager_enabled": {
+        "10": {
+            "__return_true": {
+                "function": "__return_true",
+                "accepted_args": 1
+            }
+        }
+    },
+    "default_option_embed_autourls": {
+        "10": {
+            "__return_true": {
+                "function": "__return_true",
+                "accepted_args": 1
+            }
+        }
+    },
+    "heartbeat_settings": {
+        "10": {
+            "wp_heartbeat_settings": {
+                "function": "wp_heartbeat_settings",
+                "accepted_args": 1
+            }
+        }
+    },
+    "admin_enqueue_scripts": {
+        "10": {
+            "wp_auth_check_load": {
+                "function": "wp_auth_check_load",
+                "accepted_args": 1
+            },
+            "_wp_customize_loader_settings": {
+                "function": "_wp_customize_loader_settings",
+                "accepted_args": 1
+            }
+        }
+    },
+    "heartbeat_received": {
+        "10": {
+            "wp_auth_check": {
+                "function": "wp_auth_check",
+                "accepted_args": 2
+            }
+        }
+    },
+    "heartbeat_nopriv_received": {
+        "10": {
+            "wp_auth_check": {
+                "function": "wp_auth_check",
+                "accepted_args": 2
+            }
+        }
+    },
+    "authenticate": {
+        "20": {
+            "wp_authenticate_username_password": {
+                "function": "wp_authenticate_username_password",
+                "accepted_args": 3
+            }
+        },
+        "99": {
+            "wp_authenticate_spam_check": {
+                "function": "wp_authenticate_spam_check",
+                "accepted_args": 1
+            }
+        }
+    },
+    "setup_theme": {
+        "10": {
+            "preview_theme": {
+                "function": "preview_theme",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_loaded": {
+        "10": {
+            "_custom_header_background_just_in_time": {
+                "function": "_custom_header_background_just_in_time",
+                "accepted_args": 1
+            }
+        }
+    },
+    "delete_attachment": {
+        "10": {
+            "_delete_attachment_theme_mod": {
+                "function": "_delete_attachment_theme_mod",
+                "accepted_args": 1
+            }
+        }
+    },
+    "save_post": {
+        "10": {
+            "delete_get_calendar_cache": {
+                "function": "delete_get_calendar_cache",
+                "accepted_args": 1
+            }
+        }
+    },
+    "update_option_start_of_week": {
+        "10": {
+            "delete_get_calendar_cache": {
+                "function": "delete_get_calendar_cache",
+                "accepted_args": 1
+            }
+        }
+    },
+    "update_option_gmt_offset": {
+        "10": {
+            "delete_get_calendar_cache": {
+                "function": "delete_get_calendar_cache",
+                "accepted_args": 1
+            }
+        }
+    },
+    "admin_menu": {
+        "10": {
+            "_add_post_type_submenus": {
+                "function": "_add_post_type_submenus",
+                "accepted_args": 1
+            }
+        }
+    },
+    "before_delete_post": {
+        "10": {
+            "_reset_front_page_settings_for_post": {
+                "function": "_reset_front_page_settings_for_post",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_trash_post": {
+        "10": {
+            "_reset_front_page_settings_for_post": {
+                "function": "_reset_front_page_settings_for_post",
+                "accepted_args": 1
+            }
+        }
+    },
+    "request": {
+        "10": {
+            "_post_format_request": {
+                "function": "_post_format_request",
+                "accepted_args": 1
+            }
+        }
+    },
+    "term_link": {
+        "10": {
+            "_post_format_link": {
+                "function": "_post_format_link",
+                "accepted_args": 3
+            }
+        }
+    },
+    "get_post_format": {
+        "10": {
+            "_post_format_get_term": {
+                "function": "_post_format_get_term",
+                "accepted_args": 1
+            }
+        }
+    },
+    "get_terms": {
+        "10": {
+            "_post_format_get_terms": {
+                "function": "_post_format_get_terms",
+                "accepted_args": 3
+            }
+        }
+    },
+    "wp_get_object_terms": {
+        "10": {
+            "_post_format_wp_get_object_terms": {
+                "function": "_post_format_wp_get_object_terms",
+                "accepted_args": 1
+            }
+        }
+    },
+    "set_current_user": {
+        "10": {
+            "kses_init": {
+                "function": "kses_init",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_default_scripts": {
+        "10": {
+            "wp_default_scripts": {
+                "function": "wp_default_scripts",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_print_scripts": {
+        "10": {
+            "wp_just_in_time_script_localization": {
+                "function": "wp_just_in_time_script_localization",
+                "accepted_args": 1
+            }
+        }
+    },
+    "print_scripts_array": {
+        "10": {
+            "wp_prototype_before_jquery": {
+                "function": "wp_prototype_before_jquery",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_default_styles": {
+        "10": {
+            "wp_default_styles": {
+                "function": "wp_default_styles",
+                "accepted_args": 1
+            }
+        }
+    },
+    "style_loader_src": {
+        "10": {
+            "wp_style_loader_src": {
+                "function": "wp_style_loader_src",
+                "accepted_args": 2
+            }
+        }
+    },
+    "wp_version_check": {
+        "10": {
+            "wp_version_check": {
+                "function": "wp_version_check",
+                "accepted_args": 1
+            }
+        }
+    },
+    "upgrader_process_complete": {
+        "10": {
+            "wp_version_check": {
+                "function": "wp_version_check",
+                "accepted_args": 0
+            },
+            "wp_update_plugins": {
+                "function": "wp_update_plugins",
+                "accepted_args": 1
+            },
+            "wp_update_themes": {
+                "function": "wp_update_themes",
+                "accepted_args": 1
+            }
+        }
+    },
+    "load-plugins.php": {
+        "10": {
+            "wp_update_plugins": {
+                "function": "wp_update_plugins",
+                "accepted_args": 1
+            }
+        }
+    },
+    "load-update.php": {
+        "10": {
+            "wp_update_plugins": {
+                "function": "wp_update_plugins",
+                "accepted_args": 1
+            },
+            "wp_update_themes": {
+                "function": "wp_update_themes",
+                "accepted_args": 1
+            }
+        }
+    },
+    "load-update-core.php": {
+        "10": {
+            "wp_update_plugins": {
+                "function": "wp_update_plugins",
+                "accepted_args": 1
+            },
+            "wp_update_themes": {
+                "function": "wp_update_themes",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_update_plugins": {
+        "10": {
+            "wp_update_plugins": {
+                "function": "wp_update_plugins",
+                "accepted_args": 1
+            }
+        }
+    },
+    "load-themes.php": {
+        "10": {
+            "wp_update_themes": {
+                "function": "wp_update_themes",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_update_themes": {
+        "10": {
+            "wp_update_themes": {
+                "function": "wp_update_themes",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_maybe_auto_update": {
+        "10": {
+            "wp_maybe_auto_update": {
+                "function": "wp_maybe_auto_update",
+                "accepted_args": 1
+            }
+        }
+    },
+    "pre_post_update": {
+        "10": {
+            "000000004ed5f18500007f565b666b79delete_oembed_caches": {
+                "function": [{
+                    "handlers": [],
+                    "post_ID": null,
+                    "usecache": true,
+                    "linkifunknown": true
+                }, "delete_oembed_caches"],
+                "accepted_args": 1
+            }
+        }
+    },
+    "edit_form_advanced": {
+        "10": {
+            "000000004ed5f18500007f565b666b79maybe_run_ajax_cache": {
+                "function": [{
+                    "handlers": [],
+                    "post_ID": null,
+                    "usecache": true,
+                    "linkifunknown": true
+                }, "maybe_run_ajax_cache"],
+                "accepted_args": 1
+            }
+        }
+    },
+    "customize_controls_enqueue_scripts": {
+        "10": {
+            "wp_plupload_default_settings": {
+                "function": "wp_plupload_default_settings",
+                "accepted_args": 1
+            }
+        }
+    },
+    "nav_menu_item_id": {
+        "10": {
+            "_nav_menu_item_id_use_once": {
+                "function": "_nav_menu_item_id_use_once",
+                "accepted_args": 2
+            }
+        }
+    },
+    "in_admin_header": [{
+        "wp_admin_bar_render": {
+            "function": "wp_admin_bar_render",
+            "accepted_args": 1
+        }
+    }],
+    "wp_ajax_add-category": {
+        "10": {
+            "_wp_ajax_add_hierarchical_term": {
+                "function": "_wp_ajax_add_hierarchical_term",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_ajax_add-post_tag": {
+        "10": {
+            "_wp_ajax_add_hierarchical_term": {
+                "function": "_wp_ajax_add_hierarchical_term",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_ajax_add-nav_menu": {
+        "10": {
+            "_wp_ajax_add_hierarchical_term": {
+                "function": "_wp_ajax_add_hierarchical_term",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_ajax_add-link_category": {
+        "10": {
+            "_wp_ajax_add_hierarchical_term": {
+                "function": "_wp_ajax_add_hierarchical_term",
+                "accepted_args": 1
+            }
+        }
+    },
+    "wp_ajax_add-post_format": {
+        "10": {
+            "_wp_ajax_add_hierarchical_term": {
+                "function": "_wp_ajax_add_hierarchical_term",
+                "accepted_args": 1
+            }
+        }
+    },
+    "future_post": {
+        "5": {
+            "_future_post_hook": {
+                "function": "_future_post_hook",
+                "accepted_args": 2
+            }
+        }
+    },
+    "future_page": {
+        "5": {
+            "_future_post_hook": {
+                "function": "_future_post_hook",
+                "accepted_args": 2
+            }
+        }
+    },
+    "future_attachment": {
+        "5": {
+            "_future_post_hook": {
+                "function": "_future_post_hook",
+                "accepted_args": 2
+            }
+        }
+    },
+    "future_revision": {
+        "5": {
+            "_future_post_hook": {
+                "function": "_future_post_hook",
+                "accepted_args": 2
+            }
+        }
+    },
+    "future_nav_menu_item": {
+        "5": {
+            "_future_post_hook": {
+                "function": "_future_post_hook",
+                "accepted_args": 2
+            }
+        }
+    }
+}
