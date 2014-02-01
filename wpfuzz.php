@@ -12,20 +12,26 @@
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 
+require( dirname(__FILE__) . "/libs/hooks.php" );
 
 
 
 class WPFuzz {
+	
+	public $WPFuzzHooks;
+	
 	function __construct() {
-		add_action('shutdown',array($this,'findHooks'));
+		$this->WPFuzzHooks = new WPFuzzHooks();
+		add_action( 'shutdown' , array( $this , 'loadHooks' ) );
 	}
 	
-	function findHooks() {
+	function loadHooks() {
 		global $wp_filter;
-		return json_encode($wp_filter);
+		
+		return json_encode( $wp_filter );
 		
 	}
 }
 
-$toto = new WPFuzz();
+$wpfuzz = new WPFuzz();
 

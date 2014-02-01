@@ -8,8 +8,8 @@
 	*/
 
 	class WPFuzzHooks {
-		private defaultHooks; // Hooks and associated functions already used by WordPress
-		public	currentHooks;
+		private $defaultHooks; // Hooks and associated functions already used by WordPress
+		public	$currentHooks;
 		
 		function __construct() {
 			
