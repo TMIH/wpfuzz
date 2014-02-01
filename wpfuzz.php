@@ -11,8 +11,9 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
+define( '__WPFUZZ__' , dirname( __FILE__ ) );
 
-require( dirname(__FILE__) . "/libs/hooks.php" );
+require( __WPFUZZ__ . "/libs/hooks.php" );
 
 
 
@@ -25,11 +26,12 @@ class WPFuzz {
 		add_action( 'shutdown' , array( $this , 'loadHooks' ) );
 	}
 	
+	/**
+	*	Loads every hook present in current WordPress hook stack and
+	* looks for variances between regular WP actions and plugins one.
+	*/
 	function loadHooks() {
-		global $wp_filter;
-		
-		return json_encode( $wp_filter );
-		
+		$this->WPFuzzHooks->loadCurrentHooks();
 	}
 }
 
