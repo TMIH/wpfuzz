@@ -12,7 +12,9 @@
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 define( '__WPFUZZ__' , dirname( __FILE__ ) );
+define( '__LOGGINGLEVEL__' , E_ALL );
 
+require( __WPFUZZ__ . "/libs/messages.php" );
 require( __WPFUZZ__ . "/libs/hooks.php" );
 
 
