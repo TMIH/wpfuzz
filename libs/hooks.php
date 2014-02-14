@@ -22,7 +22,6 @@
 				$this->defaultHooks = json_decode( file_get_contents( $base_hooks ) , true );
 			}
 			else {
-				// TODO: Prepare a _cute_ error report manager so we get through the "die(URMSGHERE)" temptation
 				$this->defaultHooks = array();
 			}
 		}
