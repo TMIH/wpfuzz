@@ -22,6 +22,7 @@ require( __WPFUZZ__ . "/libs/hooks.php" );
 class WPFuzz {
 	
 	public $WPFuzzHooks;
+	public $Hooks;
 	
 	function __construct() {
 		$this->WPFuzzHooks = new WPFuzzHooks();
@@ -33,7 +34,7 @@ class WPFuzz {
 	* looks for variances between regular WP actions and plugins one.
 	*/
 	function loadHooks() {
-		$this->WPFuzzHooks->loadCurrentHooks();
+		$Hooks = $this->WPFuzzHooks->filterHooks();
 	}
 }
 

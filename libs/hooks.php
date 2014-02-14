@@ -13,8 +13,7 @@
 		
 		function __construct() {
 			$this->loadDefaultHooks();
-            		$this->loadCurrentHooks();
-            		$this->filterHooks();
+            $this->loadCurrentHooks();
 		}
 		
 		function loadDefaultHooks(){
