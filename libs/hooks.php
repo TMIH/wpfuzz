@@ -13,11 +13,7 @@
 		
 		function __construct() {
 			$this->loadDefaultHooks();
-<<<<<<< HEAD
             		$this->loadCurrentHooks();
-=======
-            $this->loadCurrentHooks();
->>>>>>> 7be73fff3b0f26d956e4733633fa7a970858d271
 		}
 		
 		function loadDefaultHooks(){
