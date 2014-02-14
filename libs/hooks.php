@@ -13,7 +13,11 @@
 		
 		function __construct() {
 			$this->loadDefaultHooks();
+<<<<<<< HEAD
+            		$this->loadCurrentHooks();
+=======
             $this->loadCurrentHooks();
+>>>>>>> 7be73fff3b0f26d956e4733633fa7a970858d271
 		}
 		
 		function loadDefaultHooks(){
@@ -33,24 +37,22 @@
 
 		function filterHooks() {
 			$hooks = json_decode( $this->currentHooks, true );
-			$currenthooks_name = $this->fillArray($hooks);
-			$defaulthooks_name = $this->fillArray($this->defaulthooks);
+			$currenthooks_name = $this->fillArray( $hooks );
+			$defaulthooks_name = $this->fillArray( $this->defaulthooks );
 			$valid_hooks = array();							
 			
-			
 			foreach ( $currenthooks_name as $hook => $filter ) {
-				if (in_array( $hook, $defaulthooks_name ) === FALSE ) {
-					$valid_hooks[] = $hook;
+				if ( in_array( $hook, $defaulthooks_name ) === FALSE ) {
 
 					foreach ( $filter as $key => $value ) {
-						$valid_hooks[$hook] = $key;					
+						$valid_hooks[$hook] = $value;					
 					}
 				}
 				else {
 					foreach ( $filter as $key => $value ) {
 						if ( in_array( $key, $defaulthooks_name[$hook] ) === FALSE ) {
 							$valid_hooks[] = $hook;
-							$valid_hooks[$hook] = $key;					
+							$valid_hooks[$hook] = $value;					
 						}
 					}
 				}							
@@ -63,7 +65,7 @@
 			foreach ( $hooks as $hook_name => $action ) {
                			 $return_array[] = $hook_name;
                			 foreach ( $action as $key => $value ) {
-					$return_array[$hook_name][] = $key;	
+					$return_array[$hook_name][] = $value;	
                 		 }
 			}
 
